@@ -13,7 +13,8 @@ This little project pulls data from a chat's .txt file - must be manually downlo
 9. Who sends the first message and how many times (the definition of "first message" is user-defined): table
 10. Most common words used by each participant: (dictionary)
 11. Most common emojis used by each participant: (dictionary)
-I have included some sample charts from chats that I analysed ("sample graphs" folder).
+
+I have included some sample charts from chats that I analysed in the "sample graphs" folder.
 
 Goes without saying, a lot more can be done with the given code. For instance, you could add a short snippet of code to find how many times a particular word was used in a chat (regex should work for this purpose).
 
