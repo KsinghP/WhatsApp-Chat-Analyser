@@ -1,4 +1,4 @@
-##What do your WhatsApp chats say?
+## What do your WhatsApp chats say?
 
 This little project pulls data from a chat's .txt file - must be manually downloaded from WA - to produce the following metrics:
 
@@ -17,5 +17,6 @@ I have included some sample charts from chats that I analysed ("sample graphs" f
 
 Goes without saying, a lot more can be done with the given code. For instance, you could add a short snippet of code to find how many times a particular word was used in a chat (regex should work for this purpose).
 
-Make sure to have your phone's timing in the 24-hour format before you download the chat files
+#### PS: Make sure to have your phone's timing in the 24-hour format before you download the chat files
+
 Credits: https://github.com/sprejerlaila/whatsapp-me, https://twitter.com/nityeshaga/status/1274432429051179009?s=20
